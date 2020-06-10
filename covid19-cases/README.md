@@ -5,4 +5,3 @@ It is updated daily and contains data from 3 sources
 - jhu (John Hopkins University)
 - nyt (New York Times)
 
-[work in progress]
