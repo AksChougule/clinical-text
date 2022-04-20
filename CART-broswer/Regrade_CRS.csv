@@ -1,0 +1,41 @@
+patient_id,age,enrollment_date,ae_outcome,ae_hosp,onset_date,end_date,CRS_grade_original,CRS_grade_rerun,change
+1,41,08/27/21,Recovered/Resolved,0,10/08/21,10/18/21,2,2,No Change
+2,16,10/01/21,Recovered/Resolved,0,11/12/21,11/30/21,3,2,Downgrade
+3,20,09/09/21,Recovered/Resolved,0,10/21/21,11/27/21,1,1,No Change
+4,22,07/29/21,Recovering/Resolving,1,09/09/21,10/19/21,4,2,Downgrade
+5,30,09/01/21,Recovered/Resolved,0,10/13/21,10/24/21,3,3,No Change
+6,60,09/18/21,Recovered/Resolved,0,10/30/21,12/03/21,2,2,No Change
+7,12,08/03/21,Fatal,0,09/14/21,10/03/21,5,5,No Change
+8,65,05/14/21,Recovered/Resolved,0,06/25/21,06/29/21,3,2,Downgrade
+9,54,06/27/21,Recovering/Resolving,1,08/08/21,09/12/21,4,4,No Change
+10,62,08/27/21,Recovered/Resolved,0,10/08/21,10/18/21,2,2,No Change
+11,44,10/01/21,Recovered/Resolved,0,11/12/21,11/30/21,3,2,Downgrade
+12,73,09/09/21,Recovered/Resolved,0,10/21/21,11/27/21,1,1,No Change
+13,22,07/29/21,Recovering/Resolving,1,09/09/21,10/19/21,4,3,Downgrade
+14,30,08/27/21,Recovered/Resolved,0,10/13/21,10/24/21,3,3,No Change
+15,60,10/01/21,Recovered/Resolved,0,10/30/21,12/03/21,2,2,No Change
+16,12,09/09/21,Fatal,0,09/14/21,10/03/21,5,5,No Change
+17,65,07/29/21,Recovered/Resolved,0,06/25/21,06/29/21,3,2,Downgrade
+18,54,09/01/21,Recovering/Resolving,1,08/08/21,09/12/21,4,4,No Change
+19,39,09/18/21,Recovered/Resolved,0,10/30/21,12/03/21,1,2,Upgrade
+20,19,09/09/21,Recovered/Resolved,0,09/14/21,10/03/21,2,3,Upgrade
+21,41,08/27/21,Recovered/Resolved,0,10/08/21,10/18/21,2,2,No Change
+22,16,10/01/21,Recovered/Resolved,0,11/12/21,11/30/21,3,2,Downgrade
+23,20,09/09/21,Recovered/Resolved,0,10/21/21,11/27/21,1,1,No Change
+24,22,07/29/21,Recovering/Resolving,1,09/09/21,10/19/21,4,2,Downgrade
+25,30,09/01/21,Recovered/Resolved,0,10/13/21,10/24/21,3,3,No Change
+26,60,09/18/21,Recovered/Resolved,0,10/30/21,12/03/21,2,2,No Change
+27,12,08/03/21,Fatal,0,09/14/21,10/03/21,5,5,No Change
+28,65,05/14/21,Recovered/Resolved,0,06/25/21,06/29/21,3,2,Downgrade
+29,54,06/27/21,Recovering/Resolving,1,08/08/21,09/12/21,4,4,No Change
+30,62,08/27/21,Recovered/Resolved,0,10/08/21,10/18/21,2,2,No Change
+31,44,10/01/21,Recovered/Resolved,0,11/12/21,11/30/21,3,2,Downgrade
+32,73,09/09/21,Recovered/Resolved,0,10/21/21,11/27/21,1,1,No Change
+33,22,07/29/21,Recovering/Resolving,1,09/09/21,10/19/21,4,3,Downgrade
+34,30,08/27/21,Recovered/Resolved,0,10/13/21,10/24/21,3,3,No Change
+35,60,10/01/21,Recovered/Resolved,0,10/30/21,12/03/21,2,2,No Change
+36,12,09/09/21,Fatal,0,09/14/21,10/03/21,5,5,No Change
+37,65,07/29/21,Recovered/Resolved,0,06/25/21,06/29/21,3,1,Downgrade
+38,54,09/01/21,Recovering/Resolving,1,08/08/21,09/12/21,4,4,No Change
+39,39,09/18/21,Recovered/Resolved,0,10/30/21,12/03/21,1,2,Upgrade
+40,19,09/09/21,Recovered/Resolved,0,09/14/21,10/03/21,2,2,No Change

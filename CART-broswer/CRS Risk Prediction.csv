@@ -1,0 +1,55 @@
+AE_SOC,Drug,FAERS,VigiBase,EudraVigi,ClinicalTrial,RealWorld
+Blood and lymphatic system disorders,Avastin,68,49,56,61,63
+Cardiac disorders,Avastin,90,60,57,62,66
+Ear and labyrinth disorders,Avastin,53,42,44,44,49
+Eye disorders,Avastin,36,26,33,30,33
+Gastrointestinal disorders,Avastin,80,71,73,68,73
+General disorders,Avastin,29,25,32,21,32
+Hepatobiliary disorders,Avastin,95,82,88,88,90
+Infections and infestations,Avastin,39,23,25,30,28
+"Injury, poisoning and procedural complications",Avastin,79,21,26,34,57
+Investigations,Avastin,51,31,35,43,43
+Metabolism and nutrition disorders,Avastin,64,61,68,53,66
+Musculoskeletal and connective tissue disorders,Avastin,46,43,44,34,49
+Nervous system disorders,Avastin,27,32,59,16,28
+Psychiatric disorders,Avastin,40,33,36,32,38
+Reproductive system and breast disorders,Avastin,14,17,16,11,18
+"Respiratory, thoracic and mediastinal disorders",Avastin,36,25,27,27,36
+Skin and subcutaneous tissue disorders,Avastin,41,34,37,38,46
+Vascular disorders,Avastin,17,8,11,9,18
+Blood and lymphatic system disorders,Humira,53,22,26,47,33
+Cardiac disorders,Humira,36,26,29,25,30
+Ear and labyrinth disorders,Humira,80,11,12,69,20
+Eye disorders,Humira,29,25,31,22,26
+Gastrointestinal disorders,Humira,95,2,9,91,11
+General disorders,Humira,39,23,27,33,14
+Hepatobiliary disorders,Humira,46,43,14,37,17
+Infections and infestations,Humira,99,21,79,20,17
+"Injury, poisoning and procedural complications",Humira,17,8,14,3,3
+Investigations,Humira,36,25,22,14,13
+Metabolism and nutrition disorders,Humira,51,31,31,20,12
+Musculoskeletal and connective tissue disorders,Humira,64,1,51,13,0
+Nervous system disorders,Humira,27,52,11,16,16
+Psychiatric disorders,Humira,90,40,72,18,20
+Reproductive system and breast disorders,Humira,90,33,27,63,23
+"Respiratory, thoracic and mediastinal disorders",Humira,14,17,6,8,5
+Skin and subcutaneous tissue disorders,Humira,41,34,33,8,24
+Vascular disorders,Humira,68,39,20,48,12
+Blood and lymphatic system disorders,Cyramza,80,11,56,24,6
+Cardiac disorders,Cyramza,29,25,17,12,8
+Ear and labyrinth disorders,Cyramza,99,21,79,20,8
+Eye disorders,Cyramza,95,2,29,66,1
+Gastrointestinal disorders,Cyramza,39,23,31,8,18
+General disorders,Cyramza,46,43,37,9,22
+Hepatobiliary disorders,Cyramza,17,8,14,3,5
+Infections and infestations,Cyramza,27,52,22,5,42
+"Injury, poisoning and procedural complications",Cyramza,36,25,25,11,18
+Investigations,Cyramza,51,31,26,25,12
+Metabolism and nutrition disorders,Cyramza,64,1,38,26,1
+Musculoskeletal and connective tissue disorders,Cyramza,90,40,27,63,16
+Nervous system disorders,Cyramza,90,33,36,54,20
+Psychiatric disorders,Cyramza,14,17,4,10,12
+Reproductive system and breast disorders,Cyramza,41,34,29,12,24
+"Respiratory, thoracic and mediastinal disorders",Cyramza,68,39,34,34,31
+Skin and subcutaneous tissue disorders,Cyramza,53,22,37,16,11
+Vascular disorders,Cyramza,36,26,25,11,8
