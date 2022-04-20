@@ -1,5 +1,5 @@
 requests==2.24.0
 plotly==4.6.0
 pandas==1.1.2
-numpy==1.18.1
+numpy==1.21.0
 dash==1.16.0
