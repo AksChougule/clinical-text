@@ -96,7 +96,7 @@ kiwisolver==1.1.0
 kornia==0.2.0
 lifelines==0.27.0
 llvmlite==0.34.0
-lxml==4.5.2
+lxml==4.6.5
 MarkupSafe==1.1.1
 matplotlib==3.3.1
 missingno==0.4.2
